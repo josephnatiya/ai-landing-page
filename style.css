@@ -11,6 +11,8 @@ body {
 h1, h2 {
   text-align: center;
   margin-top: 1.2em;
+  p {
+  text-align: right;
 }
 
 /* Hero Section (AI-generated with ChatGPT) */
